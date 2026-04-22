@@ -9,9 +9,9 @@
 ---
 
 🎮 Разрабатываю игры на **Unity** — от механик до геймдизайна  
-🌐 Владею **HTML/CSS/JS** и базами **Python**
+🌐 Владею базами Веб и базой Python 
 🔐 Развиваюсь в направлении **Red Team** и кибербезопасности  
-🔍 Изучаю методы атак и защиты — малварь, сети, социальная инженерия
+🔍 Изучаю методы атак и защиты — малварь, сети, социальная инженерия  
 🤖 Умею эффективно работать с ИИ
 
 ---
@@ -22,7 +22,6 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ### 🔧 Инструменты
 
