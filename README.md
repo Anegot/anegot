@@ -1,32 +1,62 @@
-# Привет, я Сергей 👋  
-### Unity Developer | Веб-разработчик  
+# Привет, я Сергей 👋
 
-🚀 **Обо мне**:  
-- 🎮 Работаю с **Unity**, **Html** и **Python**  
-- 🌍 Осваиваю **веб-разработку**: HTML, CSS, JavaScript  
-- 📚 Люблю изучать новые технологии и автоматизировать рутину
+<div align="center">
 
-### 🛠 **Мой стек**: 
-![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+### `Unity Developer` • `Web Developer` • `Red Team`
 
-### 📚 **Хочу изучить**:  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?logo=unreal-engine&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
+</div>
 
-### 🎮 **Мои Unity-проекты**:  
-- [Run To Life](https://nigaday51.itch.io/run-to-life) — Моя первая игра, которую позже доработал чтоб в нее поиграли на стриме  
+---
 
-### 🌐 **Веб-проекты**:  
-- [OverDrive](https://github.com/Sordelys/HTML_Python) — Сайт читов Cs2   
+🎮 Разрабатываю игры на **Unity** — от механик до геймдизайна  
+🌐 Владею **HTML/CSS/JS** и базами **Python**
+🔐 Развиваюсь в направлении **Red Team** и кибербезопасности  
+🔍 Изучаю методы атак и защиты — малварь, сети, социальная инженерия
+🤖 Умею эффективно работать с ИИ
 
-### 📊 **Статистика**:  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sordelys&show_icons=true&theme=dark)](https://github.com/Sordelys)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sordelys&layout=compact&theme=dark&hide=shaderlab,hlsl)](https://github.com/Sordelys)  
+---
 
-> "Код — это поэзия, которая оживляет идеи." ✨  
+### 🛠 Стек
+
+![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+### 🔧 Инструменты
+
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?logo=arch-linux&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?logo=google-gemini&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97757?logo=anthropic&logoColor=white)
+
+---
+
+### 🎮 Игровые проекты
+
+- [**Run To Life**](https://nigaday51.itch.io/run-to-life) — первая игра, была показана на стриме
+- **Oversight** *(в разработке)* — психологический хоррор, сиквел Run To Life
+
+### 🌐 Веб-проекты
+
+- [**OverDrive**](https://github.com/Sordelys/HTML_Python) — сайт с теорией о читах в CS2
+- [**AiChat**](https://github.com/Sordelys/AI-WebChat) — чат с ИИ через OpenRouter API
+
+### 🏫 Школьный проект
+
+- **Исследование компьютерных угроз и методов защиты** *(еще делаю)* — проект про вирусы, как от них защититься.
+
+### 📁 Заметки
+
+- [**archive**](https://github.com/Sordelys/archive) — Linux, локальные LLM и другое
+
+---
+
+<div align="center">
+
+📈 **В планах:** углубляться в Red Team и кибербезопасность
+
+</div>
+
