@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### `Unity Developer` • `Web Developer` • `Red Team`
+### `Unity Developer` • `Red Team`
 
 </div>
 <p align="center">
